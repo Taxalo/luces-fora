@@ -1,6 +1,6 @@
 # luces-fora
 
-## 🧑‍🦳🧑‍🦳🧑‍🦳 Colaboradores
+## 🧑‍ Colaboradores
 - Esta aplicación ha sido diseñada por Quique, Óscar, Fernando, Luís Souto y David.
 
 ## 📚 Guía del usuario
