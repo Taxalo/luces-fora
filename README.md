@@ -1,5 +1,8 @@
 # luces-fora
 
+## ⚠️ AVISO
+- Luces Fora usa emojis los cuales son usados para representar las luces y los cálculos de distancias para mostrar los índices están pensados con esto enc uenta. Dependiendo de la fuente de la consola o la página de códigos activa (chcp) pueden verse correctamente o no. Para mejor visibilidad usar un IDE como Eclipse o IntelliJ.
+
 ## 🧑‍ Colaboradores
 - Esta aplicación ha sido diseñada por Quique, Óscar, Fernando, Luís Souto y David.
 
